@@ -1,0 +1,6 @@
+framework module SatoriRtmSdkWrapper {
+  umbrella header "SatoriRtmSdkWrapper.h"
+
+  export *
+  module * { export * }
+}

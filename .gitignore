@@ -1,0 +1,8 @@
+Build
+xcuserdata
+Pods
+Carthage.pkg
+Carthage
+Cartfile.resolved
+_DS_Store
+.DS_Store
